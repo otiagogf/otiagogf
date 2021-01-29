@@ -14,7 +14,6 @@
 - 👨🏽‍🎓 Eu sou estudante de análise e desenvolvimento de sistemas 
 - 📚 Eu atualmente estudo html, css e javascript
 - 👯 Estou procurando colaborar em projetos comunitários de front-end, para melhorar meu conhecimento e ser colaborativo com outros colegas na área
-- 📧 Para me encontrar, me envie um e-mail tiago.g.figueira@gmail.com
 - ⚡ Curiosidade: se você sair de casa e sua mãe mandar você pegar um casaco, pegue um para você, porque com certeza você vai precisar mais tarde
 - 😄 Pronomes: Ele/Ele
 

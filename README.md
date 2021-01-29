@@ -14,7 +14,6 @@
 - 👨🏽‍🎓 I do faculty of systems analysis and development
 - 📚 I'm currently learning html, css e javascript
 - 👯 I’m looking to collaborate on front-end community projects, to improve my knowledge and be collaborative with other colleagues in the area
-- 📧 To find me, send me an email tiago.g.figueira@gmail.com
 - ⚡ Fun fact: If you leave the house and your mother tells you to take a coat, get one for yourself, because for sure you will need it later
 - 😄 Pronouns: he/him
 
