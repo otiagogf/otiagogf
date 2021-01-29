@@ -1,6 +1,6 @@
 # **Tiago Figueira** 👨🏽‍💻
 **________________________________________________________________________________________________________________________________________________**
-[gmail]()[Linkedin](https://www.linkedin.com/in/tiago-figueira-182831a6/)[whatsapp](https://api.whatsapp.com/send?phone=5551991746226)
+[gmail]() [](https://www.linkedin.com/in/tiago-figueira-182831a6/) [whatsapp](https://api.whatsapp.com/send?phone=5551991746226)
 
 <!--
 **tiagofigueira/tiagofigueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
