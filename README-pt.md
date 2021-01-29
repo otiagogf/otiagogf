@@ -8,7 +8,6 @@
 **tiagofigueira/tiagofigueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Hello, welcome to my profile 🤙🏽
-
 #### I'm Tiago Figueira, I am currently looking for a new job as a developer 
 
 - 👨🏽‍🎓 I do faculty of systems analysis and development
