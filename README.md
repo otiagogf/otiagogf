@@ -7,17 +7,11 @@
 <!--
 **tiagofigueira/tiagofigueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Hello, welcome to my profile 🤙🏽
+### Olá, bem-vindo ao meu perfil 🤙🏽
 
-#### I'm Tiago Figueira, I am currently looking for a new job as a developer 
+#### Eu sou Tiago Figueira, eu atualmente estou procurando por um emprego como desenvolvedor
 
-- 👨🏽‍🎓 I do faculty of systems analysis and development
-- 📚 I'm currently learning html, css e javascript
-- 👯 I’m looking to collaborate on front-end community projects, to improve my knowledge and be collaborative with other colleagues in the area
-- ⚡ Fun fact: If you leave the house and your mother tells you to take a coat, get one for yourself, because for sure you will need it later
-- 😄 Pronouns: he/him
-
-## Portuguese - BR version 
-[Portuguese](README-pt.md)
-
-
+- 👨🏽‍🎓 Eu sou estudante de análise e desenvolvimento de sistemas.
+- 📚 Eu atualmente estudo html, css e javascript.
+- 👯 Estou procurando colaborar em projetos comunitários de front-end, para melhorar meu conhecimento e ser colaborativo com outros colegas na área.
+- ⚡ Curiosidade: Se você leu até aqui, está no caminho certo para ser desenvolvedor, ser curioso é buscar sempre uma melhor alternativa.
