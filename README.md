@@ -9,9 +9,8 @@
 
 ### Olá, bem-vindo ao meu perfil 🤙🏽
 
-#### Eu sou Tiago Figueira, atualmente sou aspirante a desenvolvedor Front-end, onde o meu objetivo é dominar esta vertente da programação até atingir o domínio do React JS.
+#### Eu sou Tiago Figueira, atualmente sou aspirante a desenvolvedor Front-end.
 
-- 👨🏽‍🎓 Eu sou estudante de análise e desenvolvimento de sistemas.
-- 📚 Eu atualmente estudo html, css e javascript.
-- 👯 Estou procurando colaborar em projetos comunitários de front-end, para melhorar meu conhecimento e ser colaborativo com outros colegas na área.
+- 👨🏽‍🎓 Eu sou estudante de análise e desenvolvimento de sistemas. Onde o meu foco, é o desenvolvimento web (Html + Css e JavaScript).
+- 👯 O meu objetivo como profissional é dominar o básico do desenvolvimento web e ser um professional React JS completo.
 - ⚡ Curiosidade: Sou um grande consumidor de animes, sou maior ainda consumidor de video-games e atualmente estou retomando o hábito de leitura a livros da cultura nerd e sou um apaixonado torcedor do SC Internacional.
