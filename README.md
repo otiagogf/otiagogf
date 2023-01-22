@@ -1,7 +1,7 @@
 # **Tiago Figueira** 👨🏽‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-tiago.g.figueira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.g.figueira@gmail.com)](mailto:tiago.g.figueira@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/tiago-figueira-182831a6/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/tiagogoncalvesfigueira/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!)](https://api.whatsapp.com/send?phone=5551991746226&text=Olá,Tiago!)
 
 <!--
