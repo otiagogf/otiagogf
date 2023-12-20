@@ -45,6 +45,7 @@
 <br/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=otiagogf&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![otiagogf](https://github-readme-stats.vercel.app/api/top-langs/?username=otiagogf&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Where to find me</h3>
