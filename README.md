@@ -7,7 +7,7 @@
 
 - 👨🏽‍🎓 I have a degree in Systems Analysis and Development from IFRS - Restinga. Where my focus is web development.
 - 👯 My goal as a professional is to master the basics of web development, seeking efficiency and agility.
-- 👨🏾‍💻 My position is currently Full Support Analyst I at [Linx](https://www.linx.com.br/)
+- 👨🏾‍💻 I am currently unemployed, looking for an opportunity as a frontend developer.
 - ⚡ Curiosities: I'm a big consumer of anime, I'm an even bigger consumer of ![PlayStation](https://img.shields.io/badge/Play-Station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+) and I'm currently getting back into the habit of reading nerd culture books. My favorite football club is [SC Internacional](https://internacional.com.br/).
 - 🌱 Learning more about **React and NodeJS**.
 
